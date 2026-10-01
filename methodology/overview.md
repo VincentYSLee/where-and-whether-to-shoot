@@ -1,5 +1,5 @@
 # Methodology Overview
 
-The framework evaluates two related components of shooting decision-making: where to shoot and whether to shoot.
+The figure below provides a conceptual overview of the analytical pipeline, from the observed shooting situation to the resulting decision-making metrics.
 
 ![Methodology overview](framework_overview.png)
