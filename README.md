@@ -14,7 +14,7 @@ The proposed framework evaluates two related decisions:
 
 ## Data Availability
 
-The data used in this project are StatsBomb event and freeze-frame data. An open-source example of StatsBomb data is available through the [Hudl StatsBomb Open Data repository](https://github.com/hudl/open-data).
+The data used in this project are StatsBomb event and freeze-frame data. An open-source StatsBomb dataset is available through the [Hudl StatsBomb Open Data repository](https://github.com/hudl/open-data).
 
 Importantly, the methodology does not depend on a specific or study-exclusive dataset. It is designed to operate on compatible StatsBomb event and freeze-frame data in JSON format. It can therefore be applied to other leagues and seasons where data are available in the corresponding structure.
 
