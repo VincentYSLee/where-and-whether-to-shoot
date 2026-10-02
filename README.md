@@ -18,7 +18,7 @@ The data used in this project are StatsBomb event and freeze-frame data. An open
 
 Importantly, the methodology does not depend on a specific or study-exclusive dataset. It is designed to operate on compatible StatsBomb event and freeze-frame data in JSON format. It can therefore be applied to other leagues and seasons where data are available in the corresponding structure.
 
-For the empirical analysis in this study, we use English Premier League and La Liga data from the 2022/23 to 2024/25 seasons. These licensed data are used as the empirical sample for evaluating the framework, rather than as a dataset required by the methodology.
+For the empirical analysis in this study, we use 3 seasons of English Premier League and LaLiga data. These licensed data are used as the empirical sample for evaluating the framework, rather than as a dataset required by the methodology.
 
 ## Methodological Overview
 
